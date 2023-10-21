@@ -27,7 +27,7 @@ function Home(){
     
     const playList=[{
         no:"1.",
-        song:"https://wynk.in/music/song/aradhya-from-kushi-telugu/sa_8907212008432_INH102309906",
+        song:Song1,
         name:"Naa Roja Nuvve song",
         img:"https://images.cinemaexpress.com/uploads/user/imagelibrary/2023/5/9/original/Kushio.jpg"
     },
