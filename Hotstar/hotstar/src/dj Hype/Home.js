@@ -65,7 +65,7 @@ function Home(){
         no:"7.",
         song:Song7,
         name:"Adire Dhada Puttindhe song",
-        img:"https://tamilnext.com/wp-content/uploads/2019/02/Arjun-Reddy-Movie-Stills-23-1000x600.jpg"
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlTbk_zYLbFF9dVo01gD3lTsvn_SxVGB1hze4aa6WXaO6So0byhAmncWr9xU8MHd7lwEI&usqp=CAU"
     },
     {
         no:"8.",
